@@ -1,20 +1,12 @@
-``
-🚀 Workflow
-1️⃣ Cloner le skeleton
+Voyage d'apprentissage basé sur la doc officiel du Framework et les tutos de Grafikart (https://www.youtube.com/playlist?list=PLjwdMgw5TTLVQgowwmhNCpXfHMfM9Jove)
 
-2️⃣ Lancer Docker
+1️⃣ Lancer Docker pour le développement
 
 ```
-make up
+make dev
 ```
 
-3️⃣ Initialiser
-
-```
-make init
-```
-
-4️⃣ Ouvrir localhost
+2️⃣ Ouvrir localhost
 
 ```
 http://localhost:5173/
